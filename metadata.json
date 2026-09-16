@@ -1,0 +1,6 @@
+{
+  "name": "AIUnlock",
+  "description": "Discover and unlock top-tier AI tools like ChatGPT, Claude, Midjourney, and Runway instantly with zero account or login required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
